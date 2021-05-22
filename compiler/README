@@ -1,0 +1,7 @@
+compiler
+--------
+
+A C compiler.
+
+* Must comply with the C17 ISO standard and corrigenda.  
+* All criteria from the statlin README apply.
