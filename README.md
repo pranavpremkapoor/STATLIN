@@ -1,0 +1,2 @@
+# statlin
+Statically linked programs.
