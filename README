@@ -1,0 +1,17 @@
+statlin
+=======
+
+Statically linked programs.
+
+Guidelines
+----------
+
+* All new code must be dedicated to the Public Domain. 
+* Licenses of all source code should conform to the COPYFREE definition.
+* Programs should be written in portable ISO C (C90) with POSIX extensions.
+* Programs should build and execute successfully under a POSIX-compliant OS.
+* Programs should be statically linked and not rely on a dynamic linker.
+* Formal verification of new programs is recommended.
+* Exceptions to the above criteria must be documented.
+
+Note: The COPYFREE definition may be found at https://copyfree.org/standard
